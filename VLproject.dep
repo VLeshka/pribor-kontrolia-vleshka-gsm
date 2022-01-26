@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>121826462</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\General\Inc\gsm.hpp</file>
+            <file>$PROJ_DIR$\General\Inc\gsm_mainTitle.hpp</file>
+            <file>$PROJ_DIR$\General\Inc\gsmUartCommands.hpp</file>
+            <file>$PROJ_DIR$\General\Inc\peripherals.hpp</file>
+            <file>$PROJ_DIR$\General\gsm.cpp</file>
+            <file>$PROJ_DIR$\General\gsmUartCommands.cpp</file>
+            <file>$PROJ_DIR$\General\interrupts.cpp</file>
+            <file>$PROJ_DIR$\General\peripherals.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\example_base_functions.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\example_base_strings.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\example_base_types.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\example_options.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\example_work.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\rus1.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\rus1_indicatorRUS1.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\rus1_interruptLcdTimer.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\rus1_mainTitle.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\rus1_peripherals.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\rus1_screenLCD_AC-162A.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\rus1_stencil_funcs_changedata.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\rus1_treenode_go.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\vl_TreeStructureGenerator_Functions.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\Inc\vl_TreeStructureGenerator_Structure.hpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\example_base_functions.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\example_base_strings.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\example_options.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\example_work.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\rus1.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\rus1_indicatorRUS1.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\rus1_interruptLcdTimer.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\rus1_peripherals.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\rus1_screenLCD_AC-162A.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\rus1_stencil_funcs_changedata.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\rus1_treenode_go.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\vl_TreeStructureGenerator_Functions.cpp</file>
+            <file>$PROJ_DIR$\IndicatorRus1\vl_TreeStructureGenerator_Structure.cpp</file>
+            <file>$PROJ_DIR$\main.cpp</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_base_functions.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\vl_TreeStructureGenerator_Functions.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_screenLCD_AC-162A.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1.r43</file>
+            <file>$PROJ_DIR$\Debug\List\VLproject.map</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_indicatorRUS1.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_work.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\gsmUartCommands.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\peripherals.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_peripherals.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_treenode_go.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_screenLCD_AC-162A.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\peripherals.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_stencil_funcs_changedata.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_interruptLcdTimer.r43</file>
+            <file>$TOOLKIT_DIR$\inc\msp430g2553.h</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_indicatorRUS1.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_peripherals.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_options.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\vl_TreeStructureGenerator_Functions.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
+            <file>$PROJ_DIR$\Debug\Exe\VLproject.d43</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_options.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\interrupts.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\gsm.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_base_strings.r43</file>
+            <file>$PROJ_DIR$\Debug\Exe\VLproject.ulp</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_treenode_go.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\interrupts.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_work.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_base_functions.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_stencil_funcs_changedata.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\config\linker\lnk430g2553.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_interruptLcdTimer.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\gsm.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\vl_TreeStructureGenerator_Structure.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\gsmUartCommands.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_base_strings.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\VLproject.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\vl_TreeStructureGenerator_Structure.r43</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\gsm.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\gsmUartCommands.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\interrupts.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\peripherals.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_base_functions.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_base_strings.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_options.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\example_work.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_indicatorRUS1.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_interruptLcdTimer.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_peripherals.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_screenLCD_AC-162A.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_stencil_funcs_changedata.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\rus1_treenode_go.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\vl_TreeStructureGenerator_Functions.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\vl_TreeStructureGenerator_Structure.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$TOOLKIT_DIR$\config\linker\dlib_small_math.xcl</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 59 41</file>
+                </tool>
+                <tool>
+                    <name>ULP430</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\General\gsm.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 82</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 63</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 1 13 16 2 0 10 8 11 3 18 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\General\gsmUartCommands.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 83</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 2 1 16 0 10 3 8 9 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\General\interrupts.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 84</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 67</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 1 16 0 10 11 3 17 18 8 13 9 2</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\General\peripherals.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 85</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 45</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 49</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 3 1 16 17 18 8 13</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\example_base_functions.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 86</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 16 8 18 14 17</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\example_base_strings.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 87</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 64</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 78</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 18 16 8 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\example_options.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 88</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 60</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 11 16 8 13 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\example_work.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 89</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 68</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 17 18 16 8 52 70 53 9 11 3 1 0 10 13 21</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\rus1.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 90</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 40</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 17 18 16 8 13 9 19 22 52 70 53 10 11 14 20 0 1 3</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\rus1_indicatorRUS1.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 91</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 42</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 18 16 8 14 17</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\rus1_interruptLcdTimer.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 92</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 51</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 16 15 8 22 13 10 11 19 18 9 14 17 3 1 0 2 20</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\rus1_peripherals.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 93</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 55</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 16 8 18 14 17 3 1</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\rus1_screenLCD_AC-162A.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 94</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 18 16 8 17</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\rus1_stencil_funcs_changedata.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 95</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 50</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 13 16 18 8 19 9 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\rus1_treenode_go.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 96</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 66</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 18 16 8 13 22 10 11 19 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\vl_TreeStructureGenerator_Functions.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 97</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 38</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 18 16 8 21 22 13 10 11 19 9 20 3 1 0</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\IndicatorRus1\vl_TreeStructureGenerator_Structure.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 98</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 80</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 21 16 22 13 10 11 19 18 8 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.cpp</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 99</file>
+                </tool>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 58</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 52 70 53 16 12 8</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\VLproject.d43</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 72 100 37 64 60 68 63 44 67 58 45 40 42 51 55 39 50 66 38 80 81</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>XLINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>

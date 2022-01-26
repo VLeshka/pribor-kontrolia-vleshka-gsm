@@ -1,0 +1,314 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:TreeNode id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-3">Root(0xE000)</Text>
+<Name id="ref-4">Root</Name>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey id="ref-5"></ImageKey>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>2</ChildCount>
+<children0 href="#ref-6"/>
+<children1 href="#ref-7"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-8">Информация</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>4</ChildCount>
+<children0 href="#ref-9"/>
+<children1 href="#ref-10"/>
+<children2 href="#ref-11"/>
+<children3 href="#ref-12"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-13">Настройки</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>5</ChildCount>
+<children0 href="#ref-14"/>
+<children1 href="#ref-15"/>
+<children2 href="#ref-16"/>
+<children3 href="#ref-17"/>
+<children4 href="#ref-18"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-19">Напряжение фазы</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>1</ChildCount>
+<children0 href="#ref-20"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-21">Баланс сим-карты</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>1</ChildCount>
+<children0 href="#ref-22"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-23">Уровень GSM-сигнала</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>1</ChildCount>
+<children0 href="#ref-24"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-25">Инфо о GSM-операторе</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>1</ChildCount>
+<children0 href="#ref-26"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-14" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-27">Пауза между выкл. и вкл. фазы при рестарте</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>1</ChildCount>
+<children0 href="#ref-28"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-15" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-29">Максимально допустимое напряжение фазы</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>1</ChildCount>
+<children0 href="#ref-30"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-16" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-31">Минимально допустимое напряжение фазы</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>1</ChildCount>
+<children0 href="#ref-32"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-17" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-33">Посылать ли смс при выходе напряжения за допустимые пределы</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>1</ChildCount>
+<children0 href="#ref-34"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-18" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-35">Отключить звук</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>1</ChildCount>
+<children0 href="#ref-36"/>
+</a1:TreeNode>
+<a1:TreeNode id="ref-20" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-37">data Напряжение фазы</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>0</ChildCount>
+</a1:TreeNode>
+<a1:TreeNode id="ref-22" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-38">data Баланс сим-карты</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>0</ChildCount>
+</a1:TreeNode>
+<a1:TreeNode id="ref-24" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-39">data Уровень GSM-сигнала</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>0</ChildCount>
+</a1:TreeNode>
+<a1:TreeNode id="ref-26" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<Text id="ref-40">data Инфо о GSM-операторе</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>0</ChildCount>
+</a1:TreeNode>
+<a1:TreeNode id="ref-28" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<PropBag href="#ref-41"/>
+<Text id="ref-42">data Пауза между выкл. и вкл. фазы при рестарте</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>0</ChildCount>
+</a1:TreeNode>
+<a1:TreeNode id="ref-30" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<PropBag href="#ref-43"/>
+<Text id="ref-44">data Максимально допустимое напряжение фазы</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>0</ChildCount>
+</a1:TreeNode>
+<a1:TreeNode id="ref-32" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<PropBag href="#ref-45"/>
+<Text id="ref-46">data Минимально допустимое напряжение фазы</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>0</ChildCount>
+</a1:TreeNode>
+<a1:TreeNode id="ref-34" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<PropBag href="#ref-47"/>
+<Text id="ref-48">data Посылать ли смс при выходе напряжения за допустимые пределы</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>0</ChildCount>
+</a1:TreeNode>
+<a1:TreeNode id="ref-36" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<PropBag href="#ref-49"/>
+<Text id="ref-50">data Отключить звук</Text>
+<Name href="#ref-5"/>
+<IsChecked>false</IsChecked>
+<ImageIndex>-1</ImageIndex>
+<ImageKey href="#ref-5"/>
+<SelectedImageIndex>-1</SelectedImageIndex>
+<SelectedImageKey href="#ref-5"/>
+<ChildCount>0</ChildCount>
+</a1:TreeNode>
+<a1:OwnerDrawPropertyBag id="ref-41" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<BackColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>141</knownColor>
+<state>1</state>
+</BackColor>
+<ForeColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>0</knownColor>
+<state>0</state>
+</ForeColor>
+<Font xsi:type="xsd:anyType" xsi:null="1"/>
+</a1:OwnerDrawPropertyBag>
+<a1:OwnerDrawPropertyBag id="ref-43" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<BackColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>141</knownColor>
+<state>1</state>
+</BackColor>
+<ForeColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>0</knownColor>
+<state>0</state>
+</ForeColor>
+<Font xsi:type="xsd:anyType" xsi:null="1"/>
+</a1:OwnerDrawPropertyBag>
+<a1:OwnerDrawPropertyBag id="ref-45" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<BackColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>141</knownColor>
+<state>1</state>
+</BackColor>
+<ForeColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>0</knownColor>
+<state>0</state>
+</ForeColor>
+<Font xsi:type="xsd:anyType" xsi:null="1"/>
+</a1:OwnerDrawPropertyBag>
+<a1:OwnerDrawPropertyBag id="ref-47" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<BackColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>141</knownColor>
+<state>1</state>
+</BackColor>
+<ForeColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>0</knownColor>
+<state>0</state>
+</ForeColor>
+<Font xsi:type="xsd:anyType" xsi:null="1"/>
+</a1:OwnerDrawPropertyBag>
+<a1:OwnerDrawPropertyBag id="ref-49" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/System.Windows.Forms/System.Windows.Forms%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089">
+<BackColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>141</knownColor>
+<state>1</state>
+</BackColor>
+<ForeColor xsi:type="a2:Color" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing%2C%20Version%3D4.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db03f5f7f11d50a3a">
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>0</knownColor>
+<state>0</state>
+</ForeColor>
+<Font xsi:type="xsd:anyType" xsi:null="1"/>
+</a1:OwnerDrawPropertyBag>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
